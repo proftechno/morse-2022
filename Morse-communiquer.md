@@ -241,6 +241,6 @@ Bouton télécharger- récupérer le fichier dans téléchargement-
 cliquer droit avec la souris- envoyer vers et choisir la carte microbit
 branchée en USB.
 2. Attendre que le groupe récepteur soit prêt aussi et envoyerle message qu'il doit décoder.
-3. Ne pas oublier de brancher le shiel pour module grove avec le buzzer en P0.
+3. Ne pas oublier de brancher le shield pour module grove avec le buzzer en P0.
 Celui ne fonctionnera que pour le récepteur, mais comme ensuite vous allez
 inverser les rôles...emetteur/récepteur.
